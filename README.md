@@ -1,10 +1,10 @@
 
 <h2 align="center"> 👋 Hey there! I'm Natã </h2>
 
-#### I study Mechatronics Engineering at IFCE (Instituto Federal do Ceará). Today, I am in a scientific initiation scholarship at Laboratório de Processamento Imagens, Sinais e Computação Aplicada(LAPISCO) learning about Computer Vision, Machine Learning and Deep Learning. My goal is to be a good professional and never stop to search for new knowledges in all the areas of my work and I think that all the money and time that I spend with this goal will be well spend.
+#### I study Mechatronics Engineering at IFCE (Instituto Federal do Ceará). Today, I am in a intership at Mobills Labs, working with Data Analysis and Data Engineering. My goal is to be a good professional and never stop to search for new knowledges in all the areas of my work and I think that all the money and time that I spend with this goal will be well spend.
 
-- 🔭 I’m currently working at **[LAPISCO](https://lapisco.ifce.edu.br)**
-- 🌱 I’m currently learning **Dart/Flutter and Data Analysis**
+- 🔭 I’m currently working at **[Mobills](https://www.mobills.com.br/)**
+- 🌱 I’m currently learning **Dart/Flutter, Data Analysis and Data Engineering**
 - 💬 Ask me about **Python and Dart**
 
 ### 🛠 &nbsp;Tech Stack
