@@ -4,15 +4,15 @@
 #### I study Mechatronics Engineering at IFCE (Instituto Federal do Ceará). Today, I am in a intership at Mobills Labs, working with Data Analysis and Data Engineering. My goal is to be a good professional and never stop to search for new knowledges in all the areas of my work and I think that all the money and time that I spend with this goal will be well spend.
 
 - 🔭 I’m currently working at **[Mobills](https://www.mobills.com.br/)**
-- 🌱 I’m currently learning **Dart/Flutter, Data Analysis and Data Engineering**
-- 💬 Ask me about **Python and Dart**
+- 🌱 I’m currently learning **Swift, Data Analysis and Data Engineering**
+- 💬 Ask me about **Python and Swift**
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=33A6E8)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=33A6E8)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
