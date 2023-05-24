@@ -3,7 +3,7 @@
 
 #### I study Mechatronics Engineering at IFCE (Instituto Federal do Ceará). Today, I am in a intership at Mobills Labs, working with Data Analysis and Data Engineering. My goal is to be a good professional and never stop to search for new knowledges in all the areas of my work and I think that all the money and time that I spend with this goal will be well spend.
 
-- 🔭 I’m currently working at **[Mobills](https://www.mobills.com.br/)**
+- 🔭 I’m currently working at **[Picpay](https://picpay.com/)**
 - 🌱 I’m currently learning **Swift, Data Analysis and Data Engineering**
 - 💬 Ask me about **Python and Swift**
 
